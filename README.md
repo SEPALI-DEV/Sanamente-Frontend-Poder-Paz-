@@ -1,12 +1,46 @@
-# React + Vite
+# Sanamente-Frontend-Poder-Paz-
+Este repositorio contiene el frontend de la PWA **Poder Paz**, una aplicación informativa y preventiva sobre atención a jóvenes en riesgo de adicción.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🧩 Tecnologías
+- React
+- Vite o Create React App
+- CSS Modules o Tailwind (según preferencia)
+- Figma (diseños)
+- GitHub Actions (opcional para despliegue)
 
-Currently, two official plugins are available:
+## 📂 Estructura del proyecto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+/src
+  /components
+  /pages
+  /assets
+  /styles
+/public
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 Instalación
+
+1. Clona el repositorio:
+   https://github.com/SEPALI-DEV/Sanamente-Frontend-Poder-Paz.git
+
+2. Instala las dependencias: npm install
+3. Inicia el servidor de desarrollo: npm run dev
+
+
+## 🌐 Despliegue
+Se recomienda usar **Vercel** o **Firebase Hosting**.
+
+## 📋 Tareas actuales
+- Implementar la vista de encuesta inicial con opción de “Saltar”.
+- Desarrollar la pantalla principal con:
+- Botón de Cápsulas (videos).
+- Botón de Rutas de atención.
+- Crear pantallas de Detalles y Contacto.
+
+## 👥 Equipo
+- **Líder/UI/UX:** Sebastián
+- **Frontend:** Kevin
+
+   
+
